@@ -22,14 +22,14 @@ function App() {
         <UserLocation></UserLocation>
       </div>
       <div className="footer-info">
-        <a href="https://github.com/Keshav-Rai009/Temelio-Service.git">
+        <a href="https://github.com/Keshav-Rai009/weather-app.git">
           Download Source Code
         </a>{" "}
         | Developed by{" "}
         <a
           target="_blank"
           rel="noreferrer"
-          href="https://github.com/Keshav-Rai009/"
+          href="https://www.linkedin.com/in/keshav-rai-3b6048199/"
         >
           Keshav Rai
         </a>{" "}
